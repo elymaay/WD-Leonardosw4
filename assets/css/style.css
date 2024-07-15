@@ -93,26 +93,26 @@
 	animation: animate 25s linear infinite 0s;
 }
 .slides li:nth-child(1) span {
-	background-image: url('https://wallpapers.com/images/featured/h6569orw891unj3x.jpg');
+	background-image: url('https://i.pinimg.com/564x/11/13/0e/11130e738cabccd21390bcc496c3dffc.jpg');
 }
 .slides li:nth-child(2) span {
-	background-image: url('https://www.wired.com/images_blogs/underwire/2009/08/ponyo.jpg');
+	background-image: url('https://i.pinimg.com/564x/74/af/28/74af284c26483578aa41b6b532e8250c.jpg');
 	animation-delay: 5s;
 }
 .slides li:nth-child(3) span {
-	background-image: url('https://i.pinimg.com/originals/25/e5/e7/25e5e75f2a4fb41462b14dc1d01a738e.jpg');
+	background-image: url('https://i.pinimg.com/736x/1a/42/6f/1a426fda3de958cc118e27ed18978ac5.jpg');
 	animation-delay: 10s;
 }
 .slides li:nth-child(4) span {
-	background-image: url('https://i.pinimg.com/originals/22/53/ea/2253ea1b62157d6d043e1c13d170898d.jpg');
+	background-image: url('https://i.pinimg.com/736x/76/70/c7/7670c71177e06ed928febda3b4cfcf77.jpg');
 	animation-delay: 15s;
 }
 .slides li:nth-child(5) span {
-	background-image: url('https://pm1.narvii.com/6408/2bbbf86730a872301f563f1463de86c4d8772225_hq.jpg');
+	background-image: url('https://i.pinimg.com/564x/b1/c5/c9/b1c5c9af76daf9fbcebdfc11a37025c5.jpg');
 	animation-delay: 20s;
 }
 .slides li:nth-child(6) span {
-	background-image: url('https://d23.com/app/uploads/2015/07/ponyo.jpg');
+	background-image: url('https://i.pinimg.com/564x/f7/0c/a0/f70ca0ff3073bbe93cd4584fbbc35ecd.jpg');
 	animation-delay: 25s;
 }
 @keyframes animate {

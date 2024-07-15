@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  I made a landing page and 2 functional pages showing rating foods from Japanese restaurants and a reviews/ratings for the rastuarants.
+  I made a landing page and a functional page showcasing Airpod Max.
 </div>
 
 <br />
@@ -61,7 +61,7 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project - The porject is about making a landing page with 2 features.
-- Whats the purpose - The purpose is to show Japanese foods from restaurants and the reviews of the restaurant itself.
+- Whats the purpose - The purpose is to showcase the features of airpod max.
 - What are key components - MultiPage Website, Multi-functional webpage.
 - What technology used and how it is used - The technology used are HTML and CSS, HTML is used to make the structure of the website and CSS is used to style the website.
 
@@ -118,4 +118,4 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Responsive Website | Template | https://www.divinectorweb.com/2024/05/responsive-web-layout-with-css-slider.html#google_vignette|
-|Blog Layout| Template | https://www.w3schools.com/howto/howto_css_blog_layout.asp|
+
