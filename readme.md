@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  I made a landing page wiht 2 features showing my Blog website and a nav where I introduced myself.
+  I made a landing page and 2 functional pages showing rating foods from Japanese restaurants and a reviews/ratings for the rastuarants.
 </div>
 
 <br />
@@ -61,8 +61,8 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project - The porject is about making a landing page with 2 features.
-- Whats the purpose - The purpose is to show my blog website and a nav where I introduced myself.
-- What are key components - The key components are the blog website and the other feature and of course the landing page.
+- Whats the purpose - The purpose is to show Japanese foods from restaurants and the reviews of the restaurant itself.
+- What are key components - MultiPage Website, Multi-functional webpage.
 - What technology used and how it is used - The technology used are HTML and CSS, HTML is used to make the structure of the website and CSS is used to style the website.
 
 ### Key Components
